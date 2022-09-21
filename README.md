@@ -1,3 +1,4 @@
+
 # Vertex AI: Qwik Start 
 ## الخطوات  
 
@@ -13,4 +14,4 @@
 - سترى أن الملف جاهز وبجانبه خيار "Open JupyterLab" قم بالضغط عليه
 - وبعد فتحه قم بأختيار "Terminal"
 - وكتابة كود الأستنساخ كما هو موضح بالصوره
-![image](https://user-images.githubusercontent.com/95444663/191584979-41f41949-9fec-4685-af21-356131e1d78a.png)
+![image](https://user-images.githubusercontent.com/95444663/191584979-41f41949-
